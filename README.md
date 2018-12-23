@@ -2,7 +2,7 @@
 
 ## Installation
 
-    pip install apache2-vh
+    pip install apache2-vh (not yet working, clone this repo and run python setup.py install)
 
 ## Usage
 
