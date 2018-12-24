@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='apache2-vh',
-    version='0.0.1',
+    version='0.0.2',
     description='Make your virtual host for apache2 automatically in ubuntu',
     long_description=long_description,
     long_description_content_type='text/markdown',
